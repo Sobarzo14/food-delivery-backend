@@ -1,0 +1,74 @@
+{
+    "restaurants": [
+        {
+            "name": "chickfila",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRslULIQ7fkv5MmoTo3NL4hLMc86BkBH4GLoaH0S2S5jw&s",
+            "menu": [
+                {
+                    "id": 1,
+                    "name": "Chick-fil-A® Chicken Sandwich",
+                    "price": 3.79,
+                    "calories": 440,
+                    "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1918791242001/9c7d51e7-003d-4eb2-9d03-877cf0c82bbb/main/1280x720/2s502ms/match/image.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Waffle Potato Fries",
+                    "price": 2.29,
+                    "calories": 420,
+                    "image": "https://d1fd34dzzl09j.cloudfront.net/Images/CFACOM/PLP%20updates/Waffle%20Fries/CFA14300_Winter24_MediumFries_PLP_Banner_M_375x212.jpg_master.jpg/CFA14300_Winter24_MediumFries_PLP_Banner_D_1440x680.jpg_master.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "Spicy Deluxe Sandwich",
+                    "price": 4.99,
+                    "calories": 550,
+                    "image": "https://d1fd34dzzl09j.cloudfront.net/Images/CFACOM/PLP%20updates/Spicy%20Deluxe/CFA14300_Winter24_SpicyDeluxe-OnWhite_PLP_Hero_D_710x580.jpg_master.jpg?h=580&w=710&la=en"
+                },
+                {
+                    "id": 4,
+                    "name": "Grilled Chicken Sandwich",
+                    "price": 4.69,
+                    "calories": 320,
+                    "image": "https://www.cfacdn.com/img/order/menu/Online/Entrees/GrilledChickenClub_no_cheese_pdp.png"
+                }
+            ]
+        },
+        {
+            "name": "mcdonalds",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/640px-McDonald%27s_Golden_Arches.svg.png",
+            "menu": [
+                {
+                    "name": "Big Mac",
+                    "price": 3.99,
+                    "calories": 540,
+                    "image": "https://s7d1.scene7.com/is/image/mcdonalds/Header_BigMac_832x472:product-header-desktop?wid=830&hei=456&dpr=off"
+                },
+                {
+                    "name": "McChicken Sandwich",
+                    "price": 1.29,
+                    "calories": 400,
+                    "image": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202012_0383_CrispyChickenSandwich_PotatoBun_832x472:product-header-desktop?wid=830&hei=458&dpr=off"
+                },
+                {
+                    "name": "French Fries",
+                    "price": 1.89,
+                    "calories": 230,
+                    "image": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202002_8932_MediumFries_832x472:product-header-desktop?wid=830&hei=458&dpr=off"
+                },
+                {
+                    "name": "Filet-O-Fish",
+                    "price": 3.79,
+                    "calories": 410,
+                    "image": "https://s7d1.scene7.com/is/image/mcdonalds/Header_FiletoFish_832x472:product-header-desktop?wid=830&hei=458&dpr=off"
+                },
+                {
+                    "name": "McFlurry",
+                    "price": 2.49,
+                    "calories": 510,
+                    "image": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202002_3832_OREOMcFlurry_832x472:product-header-desktop?wid=830&hei=458&dpr=off"
+                }
+            ]
+        }
+    ]
+}
